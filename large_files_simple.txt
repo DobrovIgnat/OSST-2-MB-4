@@ -1,0 +1,21 @@
+﻿
+Name          Length
+----          ------
+write.exe      11264
+winhlp32.exe   11776
+hh.exe         18432
+DirectX.log    27522
+Core.xml       29857
+mib.bin        43131
+bootstat.dat   67584
+twain_32.dll   76800
+bfsvc.exe      93696
+splwow64.exe  164352
+notepad.exe   200704
+PFRO.log      303936
+WMSysPr9.prx  316640
+regedit.exe   370176
+HelpPane.exe 1065984
+explorer.exe 6089584
+
+

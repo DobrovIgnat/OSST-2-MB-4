@@ -1,0 +1,203 @@
+﻿
+ProcessName                   BasePriority Company                     
+-----------                   ------------ -------                     
+AggregatorHost                           8                             
+amdfendrsr                               8 Advanced Micro Devices, Inc.
+amdow                                    8 Advanced Micro Devices, Inc.
+AMDRSServ                                8 Advanced Micro Devices, Inc.
+AMDRSSrcExt                              8 Advanced Micro Devices, Inc.
+ApplicationFrameHost                     8 Microsoft Corporation       
+atieclxx                                 8 AMD                         
+atiesrxx                                 8 AMD                         
+Bitrix24                                 8 Bitriks                     
+Bitrix24                                 8 Bitriks                     
+Bitrix24                                 8 Bitriks                     
+Bitrix24                                 8 Bitriks                     
+Bitrix24                                10 Bitriks                     
+browser                                  8 YANDEX LLC                  
+browser                                 10 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+browser                                  8 YANDEX LLC                  
+CalculatorApp                            8 Microsoft Corporation       
+cncmd                                    8 Advanced Micro Devices, Inc.
+CompPkgSrv                               8 Microsoft Corporation       
+conhost                                  8 Microsoft Corporation       
+conhost                                  8 Microsoft Corporation       
+crashpad_handler                         8                             
+csrss                                   13                             
+csrss                                   13                             
+ctfmon                                  13 Microsoft Corporation       
+dasHost                                  8 Microsoft Corporation       
+dllhost                                  8 Microsoft Corporation       
+dllhost                                  8 Microsoft Corporation       
+dllhost                                  8 Microsoft Corporation       
+dwm                                     13 Microsoft Corporation       
+explorer                                 8 Microsoft Corporation       
+FileCoAuth                               8 Microsoft Corporation       
+fontdrvhost                              8 Microsoft Corporation       
+fontdrvhost                              8 Microsoft Corporation       
+IntelCpHDCPSvc                           8 Intel Corporation           
+IntelGraphicsSoftware.Service            8 Intel Corporation           
+jhi_service                              8 Intel Corporation           
+LockApp                                  8 Microsoft Corporation       
+lsass                                    9 Microsoft Corporation       
+Memory Compression                       8                             
+MpDefenderCoreService                    8                             
+msedge                                   8 Microsoft Corporation       
+msedge                                   8 Microsoft Corporation       
+msedge                                   8 Microsoft Corporation       
+msedge                                   8 Microsoft Corporation       
+msedge                                   8 Microsoft Corporation       
+msedge                                  10 Microsoft Corporation       
+msedge                                   8 Microsoft Corporation       
+msedge                                   8 Microsoft Corporation       
+msedge                                   8 Microsoft Corporation       
+msedgewebview2                           8 Microsoft Corporation       
+msedgewebview2                           8 Microsoft Corporation       
+msedgewebview2                          10 Microsoft Corporation       
+msedgewebview2                           8 Microsoft Corporation       
+msedgewebview2                           8 Microsoft Corporation       
+msedgewebview2                           8 Microsoft Corporation       
+msedgewebview2                           8 Microsoft Corporation       
+MsMpEng                                  8                             
+ms-teams                                 8 Microsoft Corporation       
+ms-teams                                 8 Microsoft Corporation       
+NisSrv                                   8                             
+notepad                                  8 Microsoft Corporation       
+notepad                                  8 Microsoft Corporation       
+OfficeClickToRun                         8 Microsoft Corporation       
+OneApp.IGCC.WinService                   8 Intel Corporation           
+OneDrive                                 8 Microsoft Corporation       
+PhoneExperienceHost                      8 Microsoft Corporation       
+powershell                               8 Microsoft Corporation       
+PresentMonService                        8 Intel(R) Corporation        
+QtWebEngineProcess                       8 The Qt Company Ltd.         
+RadeonSoftware                           8 Advanced Micro Devices, Inc.
+Registry                                 8                             
+RuntimeBroker                            8 Microsoft Corporation       
+RuntimeBroker                            8 Microsoft Corporation       
+RuntimeBroker                            8 Microsoft Corporation       
+RuntimeBroker                            8 Microsoft Corporation       
+RuntimeBroker                            8 Microsoft Corporation       
+RuntimeBroker                            8 Microsoft Corporation       
+RuntimeBroker                            8 Microsoft Corporation       
+ScreenPlay                               8                             
+SearchApp                                8 Microsoft Corporation       
+SearchApp                                8 Microsoft Corporation       
+SearchIndexer                            8 Microsoft Corporation       
+SecurityHealthService                    8                             
+SecurityHealthSystray                    8 Microsoft Corporation       
+services                                 9                             
+ShellExperienceHost                      8 Microsoft Corporation       
+sihost                                   8 Microsoft Corporation       
+smss                                    11                             
+splwow64                                 8 Microsoft Corporation       
+spoolsv                                  8 Microsoft Corporation       
+StartMenuExperienceHost                  8                             
+svchost                                  8 Microsoft Corporation       
+svchost                                  8                             
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8                             
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+svchost                                  8 Microsoft Corporation       
+System                                   8                             
+TabTip                                  13 Microsoft Corporation       
+taskhostw                                8 Microsoft Corporation       
+taskhostw                                8 Microsoft Corporation       
+Telegram                                 8 Telegram FZ-LLC             
+TextInputHost                            8 Microsoft Corporation       
+UserOOBEBroker                           8 Microsoft Corporation       
+uTorrentPro                              8 GitHub, Inc.                
+uTorrentPro                             10 GitHub, Inc.                
+Video.UI                                 8 Microsoft Corporation       
+Wacom_Tablet                            10 Wacom Co. Ltd.              
+Wacom_TabletUser                         8 Wacom Co. Ltd.              
+Wacom_TouchUser                         10 Wacom Co. Ltd.              
+Wacom_UpdateUtil                         8                             
+WacomHost                                8 Wacom Technology            
+wininit                                 13                             
+winlogon                                13 Microsoft Corporation       
+WINWORD                                  8 Microsoft Corporation       
+WmiPrvSE                                 8 Microsoft Corporation       
+WMIRegistrationService                   8 Intel Corporation           
+WTabletServicePro                        8 Wacom Co. Ltd.              
+
+
